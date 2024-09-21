@@ -1,5 +1,6 @@
 # Name: Tarun Ajjarapu
 
+
 class WordleSolver:
 
     def __init__(self):
